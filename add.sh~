@@ -1,4 +1,3 @@
-Addition of two numbers
 #!/bin/bash
 echo "Enter two numbers"
 read num1 num2
